@@ -1,0 +1,35 @@
+/* 样式重置 */
+* {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+img {
+	display: block;
+}
+i {
+	font-style: normal;
+}
+html,body {
+	height: 100%;
+}
+body {
+	font-family: "微软雅黑";
+	display: flex;
+  flex-direction: column;
+  background: #eef0f0;
+}
+em {
+	font-style: normal;
+}
+input {
+	float: left;
+	border: 0;
+	outline: 0;
+}
+
